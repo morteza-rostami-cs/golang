@@ -1,12 +1,9 @@
 package main
 
-import (
-	"fmt"
-	// module/package
-	// "learn/even"
-	// eve "learn/even/Even" // not a thing!!
-)
+import "fmt"
 
 var println = fmt.Println
 
-func main() {}
+func main() {
+
+}
